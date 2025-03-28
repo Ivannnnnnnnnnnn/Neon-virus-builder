@@ -1,5 +1,7 @@
 Once i will not update the builder anymore i will make it open source 
 
+For any issues join discord server> https://discord.gg/SHmeTHpQuD
+
 !DISCLAIMER!
 
 I AM NOT RESPONSIBLE FOR ANY UNETHICAL USE OF THIS PROGRAM
