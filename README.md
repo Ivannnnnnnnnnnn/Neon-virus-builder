@@ -5,6 +5,7 @@ Made for educational purposes only
 You need to have pyinstaller installed
 
 If you do not open powershell and type one of the commands under
+
 pip install tk
 
 pip install ttk
