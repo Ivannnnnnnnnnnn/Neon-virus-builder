@@ -1,5 +1,9 @@
 Once i will not update the builder anymore i will make it open source 
 
+You need to have pyinstaller installed
+
+If you do not open powershell and type pip install pyinstaller
+
 For any issues join discord server> https://discord.gg/SHmeTHpQuD
 
 !DISCLAIMER!
