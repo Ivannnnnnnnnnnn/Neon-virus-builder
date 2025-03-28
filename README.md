@@ -1,5 +1,7 @@
 Once i will not update the builder anymore i will make it open source 
 
+Made for educational purposes only
+
 You need to have pyinstaller installed
 
 If you do not open powershell and type pip install pyinstaller
