@@ -13,7 +13,7 @@ pip install ttk
 pip install pyinstaller
 
 
-For any issues join discord server> https://discord.gg/SHmeTHpQuD
+For any issues join telegram> https://t.me/+AOm7C_gkUAFiMTZk
 
 !DISCLAIMER!
 
